@@ -23,14 +23,14 @@ caches them for future use, and a GUI-based client for end users to make domain 
 
 ```bash
 git clone https://github.com/yourusername/dns-lookup-tool.git
-cd dns-lookup-tool
+cd dns-lookup-tool ```
 
 2. Update <Server IP Address> in dnsserver_final.py and then run:
 
-python3 dnsserver_final.py (Ubuntu)
+```python3 dnsserver_final.py (Ubuntu)```
 
 3. Update <Server IP Address> in dnsclient_final.py to the server's IP and run:
 
-python3 dnsclient_final.py
+```python3 dnsclient_final.py```
 
 
