@@ -27,10 +27,12 @@ cd dns-lookup-tool
 
 2. Update <Server IP Address> in dnsserver_final.py and then run:
 
+```bash
 python3 dnsserver_final.py (Ubuntu)
 
 3. Update <Server IP Address> in dnsclient_final.py to the server's IP and run:
 
+```bash
 python3 dnsclient_final.py
 
 
