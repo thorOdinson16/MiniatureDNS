@@ -17,6 +17,6 @@ caches them for future use, and a GUI-based client for end users to make domain 
 - Communicates over TCP sockets between client and server.
 - Multi-threaded server to handle concurrent queries.
 
-## Update <Server IP Address> in dnsserver_final.py and dnsclient_final.py to the server's IP
+## Update < Server IP Address > in dnsserver_final.py and dnsclient_final.py to the server's IP
 
 
