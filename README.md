@@ -17,22 +17,6 @@ caches them for future use, and a GUI-based client for end users to make domain 
 - Communicates over TCP sockets between client and server.
 - Multi-threaded server to handle concurrent queries.
 
-## 🛠️ Setup Instructions
-
-1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/dns-lookup-tool.git
-cd dns-lookup-tool 
-
-2. Update <Server IP Address> in dnsserver_final.py and then run:
-
-```bash
-python3 dnsserver_final.py (Ubuntu)
-
-3. Update <Server IP Address> in dnsclient_final.py to the server's IP and run:
-
-```bash
-python3 dnsclient_final.py
+## Update <Server IP Address> in dnsserver_final.py and dnsclient_final.py to the server's IP
 
 
